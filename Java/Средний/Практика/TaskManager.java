@@ -50,11 +50,11 @@ class Task {
     }
 }
 
-public class TaskPriorityManager {
+public class TaskManager {
 
     private LinkedList<Task> taskList;
 
-    public TaskPriorityManager() {
+    public TaskManager() {
         taskList = new LinkedList<>();
     }
 
@@ -125,7 +125,7 @@ public class TaskPriorityManager {
     }
 
     public static void main(String[] args) {
-        TaskPriorityManager manager = new TaskPriorityManager();
+        TaskManager manager = new TaskManager();
 
         // Примеры использования
         System.out.println(manager.manageTasks("ADD,НаписатьКод,2;ADD,ТестироватьКод,3;ADD,ОтветитьНаСообщения,1;REMOVE;GET"));

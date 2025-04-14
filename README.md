@@ -2,6 +2,11 @@
 
 ![GitHub](https://img.shields.io/badge/platform-hh.ru-blue)
 ![GitHub](https://img.shields.io/badge/language-Java-orange)
+![GitHub](https://img.shields.io/badge/language-CPP-orange)
+![GitHub](https://img.shields.io/badge/language-JavaScript-orange)
+![GitHub](https://img.shields.io/badge/language-CSharp-orange)
+![GitHub](https://img.shields.io/badge/language-Python-orange)
+![GitHub](https://img.shields.io/badge/language-SQL-orange)
 ![GitHub](https://img.shields.io/badge/license-MIT-green)
 
 ## Описание
